@@ -1,0 +1,2 @@
+Prefix plugins/NetEvolve/example/
+Plugin NetEvolve inputfile params_symIDis.txt outputfile out
